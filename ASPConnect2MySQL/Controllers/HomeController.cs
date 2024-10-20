@@ -18,6 +18,11 @@ namespace ASPConnect2MySQL.Controllers
             return View();
         }
 
+        public IActionResult Welcome()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

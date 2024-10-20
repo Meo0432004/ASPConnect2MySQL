@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPConnect2MySQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f18579c6a5f054e35caedbfdf87642ceddabf0fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPConnect2MySQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPConnect2MySQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
